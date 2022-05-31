@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cluster-secret-store:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-31T13:09:19.308211041+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 6792b6bc476028a230c38fe43a8f6cb08c9fac6a07b53b34092862b2b35f1e9c
+    name: cluster-secret-store
+    type: application
+    urls:
+    - cluster-secret-store-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-31T13:09:19.307847195+01:00"
